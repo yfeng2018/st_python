@@ -3,7 +3,7 @@
 # import jieba
 # import matplotlib.pyplot as plt
 # from wordcloud import WordCloud
-#
+#  添加一行做测试
 #
 # # 将所有文件夹名转换为str类型
 # folder_name = " ".join(os.listdir(r"E:\Pic\mzitu"))
